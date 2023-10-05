@@ -7,5 +7,5 @@
 #### Prática dirigida
 
 
-(https://github.com/estudodegames/IA_Parte1/assets/73232081/ad203a2c-6aa3-4f0f-91bd-c6938fad16df
+![IMG_PARTE1](https://github.com/estudodegames/IA_Parte1/assets/73232081/ad203a2c-6aa3-4f0f-91bd-c6938fad16df)
 
