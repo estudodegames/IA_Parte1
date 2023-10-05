@@ -4,7 +4,8 @@
 
 ### Profª Andrea Vargas 
 
-### Apresentação
+### Apresentação - 2023
+
 ![IMG_PARTE1](https://github.com/estudodegames/IA_Parte1/assets/73232081/ad203a2c-6aa3-4f0f-91bd-c6938fad16df)
 
 ![IMG_PARTE2](https://github.com/estudodegames/IA_Parte1/assets/73232081/ac054342-4865-4932-a310-f66e73adbeb4)
