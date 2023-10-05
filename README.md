@@ -6,4 +6,5 @@ Unity (Inteligência artificial)
 Profª Andrea Vargas 
 
 Prática dirigida
+Versão Unity 2020.3.20
 
