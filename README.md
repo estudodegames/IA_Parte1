@@ -15,6 +15,4 @@
 
 ![IMG_PARTE4](https://github.com/estudodegames/IA_Parte1/assets/73232081/138d2a49-4799-48b5-9644-1ba83a6d63d8)
 
-![IMG_PARTEFINAL](https://github.com/estudodegames/IA_Parte1/assets/73232081/1b7941a7-8ce6-485f-a662-b29227ba782f)
-
 ![IMG_PARTE5](https://github.com/estudodegames/IA_Parte1/assets/73232081/ac04cde5-6ca3-4b0d-89b3-97bdd062557f)
